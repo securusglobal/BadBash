@@ -10,6 +10,8 @@ Developer : Andy Yang
 Version : 0.1.0 
 License : GPLv3
 
+Orginal github project : https://github.com/RainMak3r/Rainstorm
+
 ================================================================================================
 RainMak3r@Could:~/Desktop# ruby BadBash.rb  -h
 
